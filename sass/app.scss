@@ -1,0 +1,25 @@
+@import "colours";
+
+.center {
+  text-align: center;
+}
+
+@import "components/ocs";
+section {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+#explanation {
+  background-color: black;
+  color: white;
+  a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+  }
+  
+  hr {
+    border-color: white;
+  }
+}

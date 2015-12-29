@@ -1,0 +1,31 @@
+$antoniaCol: #7C0000;
+$ludwigCol: #ffff57;
+$drakeCol: #18bcff;
+$mitziCol: #ea9700;
+
+#techo {
+    /*  fallback rainbow image */
+background: #F66 url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gay_flag.svg/2000px-Gay_flag.svg.png"); 
+  background-repeat: repeat;
+  background-size:contain;
+  color: black;
+}
+
+#mitzi {
+  background-color: $mitziCol;
+  color: white;
+}
+
+#antonia {
+  background-color: $antoniaCol;
+  color: white;
+}
+
+#drake {
+  background-color: $drakeCol;
+  color: white;
+}
+
+#ludwig {
+  background-color: $ludwigCol;
+}

@@ -1,0 +1,40 @@
+.center {
+  text-align: center; }
+
+#techo {
+  /*  fallback rainbow image */
+  background: #F66 url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gay_flag.svg/2000px-Gay_flag.svg.png");
+  background-repeat: repeat;
+  background-size: contain;
+  color: black; }
+
+#mitzi {
+  background-color: #ea9700;
+  color: white; }
+
+#antonia {
+  background-color: #7C0000;
+  color: white; }
+
+#drake {
+  background-color: #18bcff;
+  color: white; }
+
+#ludwig {
+  background-color: #ffff57; }
+
+section {
+  padding-top: 2em;
+  padding-bottom: 2em; }
+
+#explanation {
+  background-color: black;
+  color: white; }
+  #explanation a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white; }
+  #explanation hr {
+    border-color: white; }
+
+/*# sourceMappingURL=app.css.map */
